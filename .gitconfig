@@ -1,5 +1,5 @@
 [user]
-        name = Dan Scott
-        email = coderdan@protonmail.com
+        name = Dan Oak
+        email = dan@oaks.family
 [alias]
         all = "!f() { ls | xargs -I{} git -C {} $1; }; f"
